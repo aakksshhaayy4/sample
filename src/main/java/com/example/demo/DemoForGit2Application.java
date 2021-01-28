@@ -10,6 +10,9 @@ public class DemoForGit2Application {
 		SpringApplication.run(DemoForGit2Application.class, args);
 		//modificatrions for stash
 		String kanish = "lot";
+		
+		//hey this is stash testt
+		
 	}
 
 }
